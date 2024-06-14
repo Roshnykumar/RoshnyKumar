@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif))]
+[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)]
 <h1 align="center">Hi 👋, I'm RoshnyKumar</h1>
 <h3 align="center">Passionate about MERN & Full Stack | Enthusiastic Learner | Exploring AI</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.yw0TnheAGN-LPneDaTlaxwHaD8?rs=1&pid=ImgDetMain"
