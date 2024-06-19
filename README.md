@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI,LLM**
 
-- 💬 Ask me about **Anything related to React, Vue.js, and unleashing creativity with GSAP animations.**
+- 💬 Ask me about **Anything related to React,Node.js,MongoDB,Express,AngularJS.**
 
 - 📫 How to reach me **Drop me a line at turnmillroshny@gmail.com**
 
